@@ -1,2 +1,2 @@
-# DSI200
-Assignment Practice Coding
+# DSI200 Data Analytics Programming
+Assignment Practice for coding
